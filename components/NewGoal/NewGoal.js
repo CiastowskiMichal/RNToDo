@@ -1,0 +1,1 @@
+//todo: przerzucic dodawanie goali tutaj
